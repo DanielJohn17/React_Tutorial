@@ -30,11 +30,11 @@ a {
   -webkit-text-fill-color: transparent;
 }
 
-.sectiom__padding {
+.section__padding {
   padding: 4rem 6rem;
 }
 
-.sectiom__margin {
+.section__margin {
   padding: 4rem 6rem;
 }
 
@@ -78,21 +78,21 @@ a {
 }
 
 @media screen and (max-width: 700px) {
-  .sectiom__padding {
+  .section__padding {
     padding: 4rem;
   }
 
-  .sectiom__margin {
+  .section__margin {
     margin: 4rem;
   }
 }
 
 @media screen and (max-width: 550px) {
-  .sectiom__padding {
+  .section__padding {
     padding: 4rem 2rem;
   }
 
-  .sectiom__margin {
+  .section__margin {
     margin: 4rem 2rem;
   }
 }
